@@ -1,0 +1,16 @@
+:root {
+    --button-background: #2c2c2c;
+    --secondary-background: #FAFAFA;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Sometype Mono', monospace;
+    font-size: 62.5%;
+    background-color: white;
+}
